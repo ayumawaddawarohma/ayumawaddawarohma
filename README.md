@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ayu
-- 👀 I’m interested in NLP and Computer Vision
 - 🌱 I’m currently learning speech processing and speaker recoginition
-- 💞️ I’m looking to collaborate on NLP 
+- 💞️ I’m looking to collaborate  
 
 
 <!---
